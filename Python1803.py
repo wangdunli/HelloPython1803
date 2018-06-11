@@ -1,5 +1,5 @@
 def get_data():
-    print('bie shui jiao ')
+    print('小伙子 ')
 
 
 if __name__ == '__main':
